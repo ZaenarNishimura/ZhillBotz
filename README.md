@@ -1,6 +1,6 @@
 **Zhill Botz V1**
 
--Menggunakan base Bot Cahx
+-Menggunakan sc Bot Cahx
 
 ##### All Contributors
 <a href="https://github.com/BOTCAHX"><img src="https://github.com/BOTCAHX.png?size=100" width="100" height="100"></a> | [![Erlan](https://github.com/ERLANRAHMAT.png?size=100)](https://github.com/ERLANRAHMAT) 
