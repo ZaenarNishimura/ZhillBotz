@@ -1,10 +1,12 @@
-**Zhill Botz V1** |
+**Zhill Botz V1**
+
 -Menggunakan base Bot Cahx
 
 ##### Kroco
 <a href="https://github.com/ZakyZJ1"><img src="https://github.com/ZakyZJ1.png?size=100" width="100" height="100"></a>
+
 ---|---
-[Tio](https://github.com/ZakyZJ1)  
+[Zky](https://github.com/ZakyZJ1)  
 Recode | kroco |
 
 ##### All Contributors
